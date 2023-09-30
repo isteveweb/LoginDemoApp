@@ -48,3 +48,10 @@ Enjoy exploring the LoginDemoApp, and feel free to contribute or use it as a ref
 - isteveweb@gmail.com  or on linkedin 
 -https://www.linkedin.com/in/isteveweb
 
+## Screenshots 
+![Screenshot_20230930_184747](https://github.com/isteveweb/LoginDemoApp/assets/130738521/5e771a81-2710-47ce-bbf3-53769d45109b)
+![Screenshot_20230930_184818](https://github.com/isteveweb/LoginDemoApp/assets/130738521/0b4aeb3d-452a-4d3d-99c8-56cb855e0fcc)
+![Screenshot_20230930_184839](https://github.com/isteveweb/LoginDemoApp/assets/130738521/118421c9-8942-4322-8510-eff25ab27193)
+![Screenshot_20230930_184908](https://github.com/isteveweb/LoginDemoApp/assets/130738521/0e3519a3-81d1-4d45-9501-1168887f43ee)
+![Screenshot_20230930_191221](https://github.com/isteveweb/LoginDemoApp/assets/130738521/29704c86-9404-47e2-8229-02a06333286b)
+ 
